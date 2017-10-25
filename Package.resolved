@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Ccmark",
-        "repositoryURL": "git@github.com:chriseidhof/Ccmark.git",
+        "repositoryURL": "https://github.com/lmihalkovic/Ccmark.git",
         "state": {
-          "branch": null,
-          "revision": "f1baba3429aeb6fe2acabc92309cb7a756250b30",
-          "version": "0.28.2"
+          "branch": "lm",
+          "revision": "881c3a87d4530a4bd5868652ddffcedc2ff0d785",
+          "version": null
         }
       }
     ]
